@@ -1,1 +1,1 @@
-API service for faceCaputure application. Uses an express server and postgres
+API service for faceCapture application. Uses an express server and postgres db. 
